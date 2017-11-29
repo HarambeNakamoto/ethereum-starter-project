@@ -1,2 +1,2 @@
 # ethereum-starter-project
-Code related to ethereum starter project.
+Code related to ethereum class starter project.
